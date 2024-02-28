@@ -1,6 +1,5 @@
 Test Android task
 
 
-
-https://github.com/PelipetsOlga/FoodViewerAndroid/assets/13727561/e0e54478-7f54-4ba1-ba30-6cbd3729d959
+https://github.com/PelipetsOlga/FoodViewerAndroid/assets/13727561/887b1d64-545d-45a3-8634-8849175d1287
 

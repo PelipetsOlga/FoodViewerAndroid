@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Food Viewer</string>
+    <string name="cd_clear">Clear</string>
+    <string name="no_results">No search results</string>
 </resources>
